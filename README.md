@@ -50,7 +50,7 @@ Provides a hierarchical view of attrition across different job roles.
 #### Department
 
 ## Usage
-### 1. Download the Excel file from the [here](G:\My Drive\excel_dashboard(AutoRecovered)(AutoRecovered).xlsx).
+### 1. Download the Excel file from the [here](https://github.com/sakshi7890696/HR-Attrition-Dashboard/blob/main/excel_dashboard(AutoRecovered)(AutoRecovered).xlsx).
 ### 2. Open the Excel file using Microsoft Excel or compatible software.
 ### 3. Interact with the dashboard by adjusting slicers and exploring different charts and KPIs.
 
